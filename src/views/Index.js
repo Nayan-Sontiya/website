@@ -15,6 +15,7 @@ export default function HomePage() {
           background:
             'url("https://static.vecteezy.com/system/resources/previews/013/730/901/non_2x/morning-sky-spring-sunst-sky-scape-in-blue-and-yellow-colour-of-nature-sky-in-sunny-day-summer-horizon-natural-banner-background-for-world-environment-day-save-the-earth-or-earth-day-vector.jpg")',
           backgroundRepeat: "no-repeat",
+          backgroundSize:"100% 100%"
         }}
       >
         <div className="container mx-auto items-center flex flex-wrap">
